@@ -21,7 +21,7 @@ html{
     height: 100%;
 }
 .body-home{
-    background-image: url(images/background-01-port.png);
+    background-image: url(images/logo-img.jpg);
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -68,21 +68,23 @@ html{
 .meals-list-item h1{
     font-weight: bold;
     font-size: 20px;
-    color: #1a1a1a;
+    color: blue;
     padding-left:10px;
+    
    
 }
 .meals-list-item h2{
     font-weight: bold;
     font-size: 20px;
-    color: #1a1a1a;
+    color: blue;
     padding-left:10px;
+   
     
 }
 .meals-list-item h3{
     font-weight: bold;
     font-size: 20px;
-    color: #1a1a1a;
+    color: blue;
     padding-left:10px;
      
 }
@@ -92,15 +94,17 @@ html{
     color: #4d4d4d;
     margin-top:-7px;
     padding-left: 10px;
+   
 }
 .meals-list-item i{
     float: right;
     color: #1a1a1a;
     padding-right:10px;
+    
 }
 
 .body-meals{
-    background-image: url(images/background-02-port.png);
+    background-image: url(images/wooden-hardwood.jpg);
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -176,7 +180,9 @@ p{
         background-image: url(images/background-02-land.png);
     }
 }
-
+*{
+    text-decoration: none;
+}
 
 
 
